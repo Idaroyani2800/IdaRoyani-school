@@ -1,0 +1,33 @@
+.home{
+    margin-top : 80px;
+    margin-bottom: 100px;
+}
+
+.hero{
+    margin-bottom: 80px;
+
+}
+
+.kuliner{
+    margin-top:50px;
+    float:left;
+}
+.kuliner-body{
+    text-align:right;
+}
+.sejarah{
+    margin-top:5px;
+    margin-bottom:  70px;
+}
+.sejarah-body{
+    margin-top:80px;
+}
+/* .footer{
+    width:100%;
+    margin:auto;
+    padding:20px ;
+    position:relative;
+	background-color: #0C2D48;
+	color:#fff;
+    background-size: 100%;
+} */
